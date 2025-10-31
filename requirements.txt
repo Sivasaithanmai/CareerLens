@@ -1,4 +1,6 @@
 streamlit
-scikit-learn
-pandas
-PyMuPDF
+tensorflow
+opencv-python
+numpy
+Pillow
+reportlab
