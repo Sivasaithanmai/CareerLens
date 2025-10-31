@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I’m applying for the Java Developer role at CGI because I want to build more than just code — I want to build solutions that make an impact. My foundation in Java, object-oriented programming, SQL, and problem-solving has been shaped through projects where I turned requirements into clean, working applications. Along the way, I’ve learned that great code isn’t just about syntax; it’s about clarity, scalability, and real-world usability.
+
+What excites me about CGI is the balance of global reach and local problem-solving. I admire how CGI empowers teams to innovate while staying grounded in client needs. That’s the kind of environment I thrive in — one where I can analyze, adapt, and deliver while continuously learning.
+
+I’m confident that my drive, technical skills, and ability to collaborate will let me contribute value from day one. I’d love the chance to bring my perspective and energy to CGI’s development team.
+
+Thank you for your time, and I look forward to discussing how I can add value at CGI.
+
+Best regards,
+C.Siva Sai Thanmai
